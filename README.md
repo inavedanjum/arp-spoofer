@@ -1,4 +1,4 @@
-# Network-Scanner
+# ARP-Spoofer
 
 This tool is used for ARP Spoofing and to intercept communication between network devices.
 
